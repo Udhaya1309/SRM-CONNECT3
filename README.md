@@ -1,1 +1,1 @@
-# SRM-CONNECT3
+srm-campus-hub
